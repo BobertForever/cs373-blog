@@ -1,16 +1,14 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno' 
-baseurl: '/jekyll-uno/'
-# google_analytics: 'UA-XXXXXX-X'
+title: 'CS373 Spring 2016: Robert Lynch'
+description: 'My blog for Software Engineering, Spring 2016'
+url: 'http://bobertforever.github.io/cs373-blog/'
+baseurl: '/cs373-blog/'
+google_analytics: 'UA-48035110-5'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Robert Lynch'
+  email: robertlynch2012@gmail.com
+  github_username:  BobertForever
 
 # Build settings
 destination: _site
