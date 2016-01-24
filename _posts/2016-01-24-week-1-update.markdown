@@ -25,7 +25,7 @@ the later projects.
 
 ## What's in your way? ##
 
-Since we've only just started the course, there's not much in our way yet. I
+Since we've only just started the course, there's not much in my way yet. I
 expect to spend some more time this week on the first project but don't forsee
 any complications as I work on it.
 
