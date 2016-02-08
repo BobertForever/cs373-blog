@@ -44,3 +44,5 @@ and versioning tool manager. Instead of installing all dependencies in the
 global scope, you setup a virtual environment which isolates all your installs
 and python version to the project, making it super portable and free of issues
 like ilibrary version conflict.
+
+[virtualenv]: https://virtualenv.readthedocs.org/en/latest/
