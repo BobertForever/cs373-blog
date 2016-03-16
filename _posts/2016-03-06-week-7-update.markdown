@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 3 Update"
+title:  "Week 7 Update"
 date:   2016-03-06 12:00:00
 tags: [update]
 ---
