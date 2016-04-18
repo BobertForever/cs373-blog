@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Week 12 Update"
+date:   2016-04-17 12:00:00
+tags: [update]
+---
+
+## Current Status ##
+
+
+### What did you do this past week? ###
+
+This last week I reviewed the necessary work for the next phase of the project.
+I got started on some of the UI work for the searching, and spent a lot of time
+fixing our deplyment, since the Carina reboot hosed our setup. I ended up having
+to delete the entire Docker cluster and recreate it, and then redeploy it. I
+think they might have changed the version of Docker as well, since some things
+seem to have changed in the way containers are built. Howevere, I was able to
+power through it and finish up the re-build.
+
+### What's in your way? ###
+
+Currently I have no blockers, aside from work on the last part of the project.
+
+### What will you do next week? ###
+
+Next week I will work with my partners to finish the portion of the project. I
+personally did a lot of the work for the last few projects, with respect to the
+frontend, so I'm hopeing my other team members will step up to help out for
+things like search and genreal content polishing. However, we shouldn't have too
+much to do other than add in the last few features and consume another group's
+API.
+
+## Course Reflections ##
+
+The course seems to have shifted completely to SQL, which is alright, though
+slighly annoying since I have worked extensively with SQL and haven't really
+been presented with any new knowledge in the topic.
+
+## Tip of the week ##
+
+My tip of the week this week is [kite][kite], a new pair-programming assistant
+powered by AI and the internet, which provides helpful pieces of information as
+you work on your code. Right now it's in beta and only works with python, but
+for the things I've done with it and seen it do, it's very useful.
+
+[kite]: https://kite.com/
