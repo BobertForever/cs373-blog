@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Week 11 Update"
+date:   2016-04-10 12:00:00
+tags: [update]
+---
+
+## Current Status ##
+
+### What did you do this past week? ###
+
+This past week, my partners and I finished up part 2 of the IDB project,
+including the necessary changes to the database. Not a lot of changes were
+necessary from my part, beceause of the way I architected the frontend the first
+time through. Most of the changes necessary were in the API / backend, and the
+frontend just needed some general expansion to handle the new amount of data.
+
+### What's in your way? ###
+
+Currently nothing is in my way, and am ready to start the next phase of the
+project.
+
+### What will you do next week? ###
+
+Next week, I hope to start on the next phase of the project to get a head start
+and hopefully work through as much of it as possible.
+
+## Course Reflections ##
+
+Like many of my previous reflections, I've realized how much of the class seems
+to revolve around python, but now it seems to be getting a larger emphases on
+SQL. I've worked a lot with databases in the past, especially this more basic
+stuff that's being taught in class, so I'm not overly engaged in the course
+matter.
+
+## Tip of the week ##
+
+My tip of the week this week is [Tern][tern], an incredibly comprehensive code
+analaysis engine for Javascript. It's really useful for larger projects since it
+powers most autocomplete engine, such as [youcompleteme][youcompleteme] or
+[atom-tern][atom-tern]. It's pretty involved to get setup but very awesome once
+you do.
+
+[tern]: http://ternjs.net
+[youcompleteme]: https://github.com/Valloric/YouCompleteMe
+[atom-tern]: https://github.com/tststs/atom-ternjs
