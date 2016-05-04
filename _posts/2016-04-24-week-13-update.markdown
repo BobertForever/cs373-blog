@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Week 13 Update"
+date:   2016-04-24 12:00:00
+tags: [update]
+---
+
+## Current Status ##
+
+### What did you do this past week? ###
+
+This last week my partners and I finished up the last part of the IDB project.
+I personally wrote in the search UI and all of the finishing front end touches,
+and will be porviding help with the remining portions that we've yet to do for
+the presentation.
+
+### What's in your way? ###
+
+The only thing reamining for our project is to get the presentation ready for
+the last week of classes and to polish up the meteorite landings page.
+
+### What will you do next week? ###
+
+Next week I will be helping polish up the page which exercises the meteorite
+landings API, as well as working together with the group to get our presentation
+polished up and ready for when we present.
+
+## Course Reflections ##
+
+The course is coming to a close, which is nice, and the final project is all
+but behind me now. I learned some things from the course but in the end believe
+I had already had experience with everything that the class was designed to
+teach, so I personally didn't get as much out of it as I would have liked. I'm
+anxious to get the presentations out of the way and then tackle the last exam,
+which I'm hoping will be a bit more straight-forward and in line with my skills
+than the first.
+
+## Tip of the week ##
+
+My tip of the week this week is [react-router][router], a library for React
+which helps build multi-page applications using only front-end logic. This was
+incredibly useful for our team, as the frontend handled everything and just
+called our API to get the data to genetate.
+
+[router]: https://github.com/reactjs/react-router

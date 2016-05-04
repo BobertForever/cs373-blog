@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Week 14 Update"
+date:   2016-05-01 12:00:00
+tags: [update]
+---
+
+## Current Status ##
+
+LAST ONE
+
+### What did you do this past week? ###
+
+This last week my team and I focused on getting our presentation sorted out, as
+well as finishing up the page which exercised the meteorite landing's API, of
+which I mainly handled polishing up the front end.
+
+### What's in your way? ###
+
+Currently I have no blockers, besides studying for the exam and the presentation
+on Monday.
+
+### What will you do next week? ###
+
+Next week our group presents, and then we have the final exam on Thursday, so
+most of my work will be preparing for that exam.
+
+## Course Reflections ##
+
+This is the last week of the course and the presentation is right around the
+corner. One of my largest complaints about the projects revolves around the
+tools we had to use, specifically the docker hosting site Carina. We found it
+to be incredibly unreliable and frustraing that it was the hosting site of
+choice for the class, though we inevitably moved off of it.
+
+## Tip of the week ##
+
+My tip of the week this week is [Docker Cloud][docker], a docker hosting
+solution run by the same people who maintain Docker itself. It's incredibly
+easy to use, very stable, and works with a variety of hosting providers. I've
+used it with my startup and several times recreationally, and it's very easy to
+use and very reliable in it's performance.
+
+[docker]: http://cloud.docker.com
